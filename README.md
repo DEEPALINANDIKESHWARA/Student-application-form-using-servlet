@@ -19,7 +19,6 @@ This project is a web-based Student Application Form developed using Java Servle
 - HTML/CSS/JavaScript
 
 ## Prerequisites
-Before you begin, ensure you have met the following requirements:
 - Java Development Kit (JDK) installed (version 8 or higher).
 - Apache Tomcat or any other servlet container.
 - MySQL database server (or any other database of your choice).
